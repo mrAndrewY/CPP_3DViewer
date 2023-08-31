@@ -13,5 +13,5 @@ Before executing application please:
 2) // Go to the src directory //
 2) // execute the command in the shell terminal: // make install - the programm will build and the icon will be on the desktop.
 
-![3dviewer](shelby.png)
+![3dviewer](Shelby.png)
  
