@@ -10,6 +10,8 @@ Project uses OpenGL libraries for visualisation .obj files.
 
 Before executing application please:
 1) // Clone the project //
+2) // Go to the src directory //
 2) // execute the command in the shell terminal: // make install - the programm will build and the icon will be on the desktop.
 
+![3dviewer](shelby.png)
  
